@@ -1,4 +1,4 @@
-# Vencord Mod Manager 1.5
+# Vencord Mod Manager
 # // FULLY VIBECODE
 Open-source Windows GUI manager for Vencord user plugins. The executable stays small: on first use it downloads Vencord source, portable Node.js, and pnpm into `%LOCALAPPDATA%\VencordModManager`.
 
